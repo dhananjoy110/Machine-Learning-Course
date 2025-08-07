@@ -4,7 +4,7 @@ Assignment 1
 
 This is a beginner-friendly project that demonstrates how to recognize handwritten digits using a simple neural network built with TensorFlow. The model is trained on the MNIST dataset, which consists of 28x28 grayscale images of digits (0–9).
 
----
+
 
 ## What It Does
 
@@ -18,7 +18,7 @@ This is a beginner-friendly project that demonstrates how to recognize handwritt
 - Evaluates model performance on the test set
 - Displays one test image and the model’s prediction
 
----
+
 
 ##  Technologies Used
 
@@ -27,7 +27,7 @@ This is a beginner-friendly project that demonstrates how to recognize handwritt
 - [Google Colab](https://colab.research.google.com)
 - Matplotlib (for plotting the test digit)
 
----
 
-## 📂 File Structure
+
+
 
